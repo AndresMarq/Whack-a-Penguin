@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9242929F2818E50200D987B8 /* GameOver.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 9242929E2818E50200D987B8 /* GameOver.m4a */; };
 		924536EF28178E9200892CDD /* WhackSlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924536EE28178E9200892CDD /* WhackSlot.swift */; };
 		929FF77728165056005EA3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 929FF77628165056005EA3F0 /* AppDelegate.swift */; };
 		929FF77928165056005EA3F0 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 929FF77828165056005EA3F0 /* GameScene.sks */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9242929E2818E50200D987B8 /* GameOver.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GameOver.m4a; sourceTree = "<group>"; };
 		924536EE28178E9200892CDD /* WhackSlot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhackSlot.swift; sourceTree = "<group>"; };
 		929FF77328165056005EA3F0 /* Whack-a-Penguin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whack-a-Penguin.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		929FF77628165056005EA3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				929FF78D28165179005EA3F0 /* whack.caf */,
 				929FF78E2816517A005EA3F0 /* whackBad.caf */,
 				924536EE28178E9200892CDD /* WhackSlot.swift */,
+				9242929E2818E50200D987B8 /* GameOver.m4a */,
 			);
 			path = "Whack-a-Penguin";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 				929FF78F2816517A005EA3F0 /* whack.caf in Resources */,
 				929FF77928165056005EA3F0 /* GameScene.sks in Resources */,
 				929FF78428165057005EA3F0 /* Assets.xcassets in Resources */,
+				9242929F2818E50200D987B8 /* GameOver.m4a in Resources */,
 				929FF78728165057005EA3F0 /* LaunchScreen.storyboard in Resources */,
 				929FF7902816517A005EA3F0 /* whackBad.caf in Resources */,
 			);
